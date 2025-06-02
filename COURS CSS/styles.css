@@ -32,14 +32,14 @@ main{
     width: 90%;
     /* Centrer une boite */
     margin : 0 auto;
-    background: rgba(240, 248, 255, 0.464);
-    border: 2px solid rgb(17, 70, 215);
+    background: rgba(162, 3, 141, 0.882);
+    border: 2px solid rgb(215, 17, 152);
     border-radius: 20px  ;
-    box-shadow: 4 0 0 rgba(2, 2, 64, 0.659);
+    box-shadow: 4 0 0 rgba(47, 2, 64, 0.659);
 }
 
 .flexbox {
-    border: 2px solid skyblue;
+    border: 2px solid rgb(132, 32, 157);
     border-radius: 20px;
     padding: 20px;
     margin-top: 10px;
@@ -50,7 +50,7 @@ main{
     height: 160px;
     width: 160px;
     margin: 10px;
-    background: rebeccapurple;
+    background: rgb(129, 9, 250);
     /* Centrer un unique élément verticalement ou horizontalement */
     display: flex;
     justify-content: center;
